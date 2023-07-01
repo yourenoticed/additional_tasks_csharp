@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿bool IsNumberInRangeNeg5To3 (int number) {
+    if (number >= -5 && number <= 3)
+        return true;
+    else
+        return false;
+}
