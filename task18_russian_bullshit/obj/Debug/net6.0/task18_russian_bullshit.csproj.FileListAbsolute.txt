@@ -1,0 +1,15 @@
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/bin/Debug/net6.0/task18_russian_bullshit
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/bin/Debug/net6.0/task18_russian_bullshit.deps.json
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/bin/Debug/net6.0/task18_russian_bullshit.runtimeconfig.json
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/bin/Debug/net6.0/task18_russian_bullshit.dll
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/bin/Debug/net6.0/ref/task18_russian_bullshit.dll
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/bin/Debug/net6.0/task18_russian_bullshit.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/task18_russian_bullshit.csproj.AssemblyReference.cache
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/task18_russian_bullshit.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/task18_russian_bullshit.AssemblyInfoInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/task18_russian_bullshit.AssemblyInfo.cs
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/task18_russian_bullshit.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/task18_russian_bullshit.dll
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/ref/task18_russian_bullshit.dll
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/task18_russian_bullshit.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task18_russian_bullshit/obj/Debug/net6.0/task18_russian_bullshit.genruntimeconfig.cache

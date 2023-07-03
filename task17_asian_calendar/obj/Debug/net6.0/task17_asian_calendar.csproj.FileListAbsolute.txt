@@ -1,0 +1,15 @@
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/task17_asian_calendar.csproj.AssemblyReference.cache
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/task17_asian_calendar.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/task17_asian_calendar.AssemblyInfoInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/task17_asian_calendar.AssemblyInfo.cs
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/task17_asian_calendar.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/bin/Debug/net6.0/task17_asian_calendar
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/bin/Debug/net6.0/task17_asian_calendar.deps.json
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/bin/Debug/net6.0/task17_asian_calendar.runtimeconfig.json
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/bin/Debug/net6.0/task17_asian_calendar.dll
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/bin/Debug/net6.0/ref/task17_asian_calendar.dll
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/bin/Debug/net6.0/task17_asian_calendar.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/task17_asian_calendar.dll
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/ref/task17_asian_calendar.dll
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/task17_asian_calendar.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task17_asian_calendar/obj/Debug/net6.0/task17_asian_calendar.genruntimeconfig.cache

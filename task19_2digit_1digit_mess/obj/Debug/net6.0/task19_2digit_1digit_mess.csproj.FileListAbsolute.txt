@@ -1,0 +1,15 @@
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/task19_2digit_1digit_mess.csproj.AssemblyReference.cache
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/task19_2digit_1digit_mess.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/task19_2digit_1digit_mess.AssemblyInfoInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/task19_2digit_1digit_mess.AssemblyInfo.cs
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/task19_2digit_1digit_mess.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/bin/Debug/net6.0/task19_2digit_1digit_mess
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/bin/Debug/net6.0/task19_2digit_1digit_mess.deps.json
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/bin/Debug/net6.0/task19_2digit_1digit_mess.runtimeconfig.json
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/bin/Debug/net6.0/task19_2digit_1digit_mess.dll
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/bin/Debug/net6.0/ref/task19_2digit_1digit_mess.dll
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/bin/Debug/net6.0/task19_2digit_1digit_mess.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/task19_2digit_1digit_mess.dll
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/ref/task19_2digit_1digit_mess.dll
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/task19_2digit_1digit_mess.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task19_2digit_1digit_mess/obj/Debug/net6.0/task19_2digit_1digit_mess.genruntimeconfig.cache

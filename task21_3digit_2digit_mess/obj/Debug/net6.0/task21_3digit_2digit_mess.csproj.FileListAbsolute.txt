@@ -1,0 +1,15 @@
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/bin/Debug/net6.0/task21_3digit_2digit_mess
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/bin/Debug/net6.0/task21_3digit_2digit_mess.deps.json
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/bin/Debug/net6.0/task21_3digit_2digit_mess.runtimeconfig.json
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/bin/Debug/net6.0/task21_3digit_2digit_mess.dll
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/bin/Debug/net6.0/ref/task21_3digit_2digit_mess.dll
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/bin/Debug/net6.0/task21_3digit_2digit_mess.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/task21_3digit_2digit_mess.csproj.AssemblyReference.cache
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/task21_3digit_2digit_mess.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/task21_3digit_2digit_mess.AssemblyInfoInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/task21_3digit_2digit_mess.AssemblyInfo.cs
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/task21_3digit_2digit_mess.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/task21_3digit_2digit_mess.dll
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/ref/task21_3digit_2digit_mess.dll
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/task21_3digit_2digit_mess.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task21_3digit_2digit_mess/obj/Debug/net6.0/task21_3digit_2digit_mess.genruntimeconfig.cache
