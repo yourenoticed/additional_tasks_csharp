@@ -1,0 +1,15 @@
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/bin/Debug/net6.0/task15_cards_names
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/bin/Debug/net6.0/task15_cards_names.deps.json
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/bin/Debug/net6.0/task15_cards_names.runtimeconfig.json
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/bin/Debug/net6.0/task15_cards_names.dll
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/bin/Debug/net6.0/ref/task15_cards_names.dll
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/bin/Debug/net6.0/task15_cards_names.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/task15_cards_names.csproj.AssemblyReference.cache
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/task15_cards_names.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/task15_cards_names.AssemblyInfoInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/task15_cards_names.AssemblyInfo.cs
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/task15_cards_names.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/task15_cards_names.dll
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/ref/task15_cards_names.dll
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/task15_cards_names.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task15_cards_names/obj/Debug/net6.0/task15_cards_names.genruntimeconfig.cache

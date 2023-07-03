@@ -1,0 +1,15 @@
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/task16_date_manipulations.csproj.AssemblyReference.cache
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/task16_date_manipulations.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/task16_date_manipulations.AssemblyInfoInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/task16_date_manipulations.AssemblyInfo.cs
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/task16_date_manipulations.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/bin/Debug/net6.0/task16_date_manipulations
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/bin/Debug/net6.0/task16_date_manipulations.deps.json
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/bin/Debug/net6.0/task16_date_manipulations.runtimeconfig.json
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/bin/Debug/net6.0/task16_date_manipulations.dll
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/bin/Debug/net6.0/ref/task16_date_manipulations.dll
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/bin/Debug/net6.0/task16_date_manipulations.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/task16_date_manipulations.dll
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/ref/task16_date_manipulations.dll
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/task16_date_manipulations.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task16_date_manipulations/obj/Debug/net6.0/task16_date_manipulations.genruntimeconfig.cache

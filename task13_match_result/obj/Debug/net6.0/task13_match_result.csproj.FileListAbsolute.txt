@@ -1,0 +1,15 @@
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/bin/Debug/net6.0/task13_match_result
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/bin/Debug/net6.0/task13_match_result.deps.json
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/bin/Debug/net6.0/task13_match_result.runtimeconfig.json
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/bin/Debug/net6.0/task13_match_result.dll
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/bin/Debug/net6.0/ref/task13_match_result.dll
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/bin/Debug/net6.0/task13_match_result.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/task13_match_result.csproj.AssemblyReference.cache
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/task13_match_result.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/task13_match_result.AssemblyInfoInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/task13_match_result.AssemblyInfo.cs
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/task13_match_result.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/task13_match_result.dll
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/ref/task13_match_result.dll
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/task13_match_result.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task13_match_result/obj/Debug/net6.0/task13_match_result.genruntimeconfig.cache
