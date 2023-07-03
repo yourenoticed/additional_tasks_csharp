@@ -105,7 +105,7 @@ string theNextDay (int month, int day, int year)
 
     if (DateValid(month, day, year))
     {
-        if ((day == 30) && (evenMonths.Contains(month)))
+        if ((day == daysInEvenMonths) && (evenMonths.Contains(month)))
         {
             return $"{months[month]} {days[0]} {year}";
         }
@@ -113,7 +113,7 @@ string theNextDay (int month, int day, int year)
         {
             return $"{months[month]} {days[0]} {year}";
         }
-        else if ((day == 31))
+        else if ((day == daysInOddMonths))
         {
             if (month == 12)
             {
