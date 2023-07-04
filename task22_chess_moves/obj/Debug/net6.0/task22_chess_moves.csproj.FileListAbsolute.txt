@@ -1,0 +1,15 @@
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/task22_chess_moves.csproj.AssemblyReference.cache
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/task22_chess_moves.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/task22_chess_moves.AssemblyInfoInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/task22_chess_moves.AssemblyInfo.cs
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/task22_chess_moves.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/bin/Debug/net6.0/task22_chess_moves
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/bin/Debug/net6.0/task22_chess_moves.deps.json
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/bin/Debug/net6.0/task22_chess_moves.runtimeconfig.json
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/bin/Debug/net6.0/task22_chess_moves.dll
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/bin/Debug/net6.0/ref/task22_chess_moves.dll
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/bin/Debug/net6.0/task22_chess_moves.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/task22_chess_moves.dll
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/ref/task22_chess_moves.dll
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/task22_chess_moves.pdb
+/home/noticed/Desktop/additional_tasks_csharp/task22_chess_moves/obj/Debug/net6.0/task22_chess_moves.genruntimeconfig.cache
