@@ -105,7 +105,7 @@ string theNextDay (int month, int day, int year)
 
     if (DateValid(month, day, year))
     {
-        if ((day == daysInEvenMonths) && (evenMonths.Contains(month)))
+        if ((day == daysInEvenMonths) && (evenMonths.Contains(month - 1)))
         {
             return $"{months[month]} {days[0]} {year}";
         }
@@ -141,4 +141,4 @@ string DateManipulations (int month, int day, int year)
     return $"The previous day is {thePreviousDay(month, day, year)}\nThe next day is {theNextDay(month, day, year)}";
 }
 
-Console.WriteLine(DateManipulations(12, 31, 1999));
+Console.WriteLine(DateManipulations(2, 29, 2000));

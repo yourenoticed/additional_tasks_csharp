@@ -1,4 +1,4 @@
-﻿bool DoesRookThreatsCD(int rookX, int rookY, int c, int d)
+﻿bool DoesRookThreatCD(int rookX, int rookY, int c, int d)
 {
     if (ChessCoordValid(rookX, rookY, c, d))
     {
@@ -29,7 +29,7 @@ bool ChessCoordValid(int firstX, int firstY, int secondX, int secondY)
     }
 }
 
-bool DoesBishopThreatsCD(int bishopX, int bishopY, int c, int d)
+bool DoesBishopThreatCD(int bishopX, int bishopY, int c, int d)
 {
     if (ChessCoordValid(bishopX, bishopY, c, d))
     {
